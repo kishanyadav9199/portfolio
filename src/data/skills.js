@@ -31,37 +31,37 @@ export const skills = [
         name: "HTML5",
         icon: FaHtml5,
         color: "text-orange-500",
-        level: "Advanced",
+        
       },
       {
         name: "CSS3",
         icon: FaCss3Alt,
         color: "text-blue-500",
-        level: "Advanced",
+        
       },
       {
         name: "JavaScript",
         icon: FaJs,
         color: "text-yellow-400",
-        level: "Advanced",
+    
       },
       {
         name: "React",
         icon: FaReact,
         color: "text-cyan-400",
-        level: "Advanced",
+        
       },
       {
         name: "Redux",
         icon: SiRedux,
         color: "text-purple-500",
-        level: "Intermediate",
+        
       },
       {
         name: "Tailwind CSS",
         icon: SiTailwindcss,
         color: "text-cyan-500",
-        level: "Advanced",
+        
       },
     ],
   },
@@ -73,19 +73,19 @@ export const skills = [
         name: "Node.js",
         icon: FaNodeJs,
         color: "text-green-500",
-        level: "Advanced",
+        
       },
       {
         name: "Express.js",
         icon: SiExpress,
         color: "text-white",
-        level: "Advanced",
+        
       },
       {
         name: "MongoDB",
         icon: SiMongodb,
         color: "text-green-400",
-        level: "Advanced",
+     
       },
     ],
   },
@@ -97,25 +97,25 @@ export const skills = [
         name: "Java",
         icon: FaJava,
         color: "text-red-500",
-        level: "Advanced",
+       
       },
       {
         name: "C",
         icon: SiC,
         color: "text-red-500",
-        level: "Advanced",
+       
       },
       {
         name: "C++",
         icon: SiCplusplus,
         color: "text-red-500",
-        level: "Advanced",
+        
       },
       {
         name: "Python",
         icon: FaPython,
         color: "text-red-500",
-        level: "Advanced",
+       
       },
     ],
   },
@@ -127,25 +127,25 @@ export const skills = [
         name: "Git",
         icon: FaGitAlt,
         color: "text-orange-500",
-        level: "Advanced",
+        
       },
       {
         name: "GitHub",
         icon: FaGithub,
         color: "text-white",
-        level: "Advanced",
+        
       },
       {
         name: "Postman",
         icon: SiPostman,
         color: "text-orange-400",
-        level: "Intermediate",
+        
       },
       {
         name: "Vite",
         icon: SiVite,
         color: "text-purple-400",
-        level: "Advanced",
+        
       },
     ],
   },
