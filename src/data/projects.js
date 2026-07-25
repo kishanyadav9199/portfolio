@@ -137,7 +137,7 @@ export const projects = [
       "Responsive Design",
     ],
 
-    github: "https://github.com/yourusername/portfolio",
-    live: "https://doctor-appointment-frontend-pi2l.onrender.com",
+    github: "https://github.com/kishanyadav9199/portfolio",
+    live: "https://portfolio-jqs4.onrender.com",
   },
 ];
