@@ -3,7 +3,7 @@ export const projects = [
     id: 1,
     title: "Doctor Appointment System",
     category: "MERN",
-    image: "src/assets/images/doctor.png",
+    image: "/images/doctor.png",
 
     description:
       "A full-stack doctor appointment booking application with authentication, Razorpay payments, and an admin dashboard.",
@@ -43,7 +43,7 @@ export const projects = [
     id: 2,
     title: "Online Food Ordering System",
     category: "MERN",
-    image: "/src/assets/images/foodorder.png",
+    image: "/images/foodorder.png",
 
     description:
       "Modern online food ordering platform with authentication, shopping cart, payment integration, and admin dashboard.",
@@ -82,7 +82,7 @@ export const projects = [
     id: 3,
     title: "Movie Zone",
     category: "React",
-    image: "src/assets/images/movieZone.png",
+    image: "/images/movieZone.png",
 
     description: "Movie discovery application using the TMDB API.",
 
@@ -115,7 +115,7 @@ export const projects = [
     id: 4,
     title: "Portfolio Website",
     category: "React",
-    image: "/src/assets/images/portfolio.png",
+    image: "/images/portfolio.png",
 
     description:
       "A personal portfolio built with React, Framer Motion, and Tailwind CSS.",
